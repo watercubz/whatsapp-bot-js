@@ -1,0 +1,8 @@
+**/node_modules
+**/.wwebjs_auth
+**/.wwebjs_cache
+**/log
+**/core.class.log
+**/queue.class.log
+**/bot.qr.png
+
